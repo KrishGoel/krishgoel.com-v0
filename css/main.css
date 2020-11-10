@@ -1,0 +1,82 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+.everything {
+	margin-top: 0;
+	padding-top: 0;
+	width: 90%;
+	max-width: 450px;
+	margin: 0 auto;
+	padding-left: 10px;
+	border-left: 3px solid #dddddd;
+	margin-bottom: 50px;
+}
+.mainHead {
+	font-family: 'Source Code Pro', monospace;
+	font-size: 2em;
+	font-weight: bolder;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+.subHead {
+	font-family: 'Source Code Pro', monospace;
+	font-size: 1.2em;
+	color: #777777;
+	padding-top: 0;
+	margin-top: 0;
+}
+.mainContent {
+	font-family: 'Source Code Pro', monospace;
+	font-size: 1em;
+}
+.boldMainContent {
+	font-weight: bolder;
+}
+.projectPageLink {
+	font-family: 'Source Code Pro', monospace;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 1em;
+	color: #000000;
+	border-bottom: 3px solid #000000;
+}
+.projectPageLink:hover {
+	color: #555555;
+	border-bottom-color: #999999;
+}
+.iconLinks {
+	font-family: 'Source Code Pro', monospace;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 1em;
+	line-height: 1.5em;
+	color: #222222;
+}
+.iconLinks:hover {
+	text-decoration: underline;
+}
+.githubLinkProjectsPage {
+	font-family: 'Source Code Pro', monospace;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 1em;
+	color: #000000;
+	border-bottom: 3px solid #000000;
+}
+.githubLinkProjectsPage:hover {
+	color: #555555;
+	border-bottom-color: #999999;
+}
+.indexPageLink {
+	font-family: 'Source Code Pro', monospace;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 1em;
+	color: #000000;
+	border-bottom: 3px solid #000000;
+}	
+.indexPageLink:hover {
+	color: #555555;
+	border-bottom-color: #999999;
+}
